@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Chariselyasa123
 - 👀 I’m interested in many programing backend
-- 🌱 I’m currently learning Next js for my next project
 - 📫 How to reach me = email me on charis.aceh@gmail.com
 
 <!---
